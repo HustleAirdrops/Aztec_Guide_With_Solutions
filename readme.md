@@ -156,7 +156,7 @@ Go to `#operators│start-here` channel, type `/operator start`, and enter your 
 
 ---
 
-## ❓ FAQ & Troubleshooting
+##                  ❓ FAQ & Troubleshooting
 
 ### 1. No Blob Sources Are Reachable
 
