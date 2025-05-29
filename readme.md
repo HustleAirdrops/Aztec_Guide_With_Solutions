@@ -1,4 +1,5 @@
-# 🚀 Aztec Node Setup Guide
+
+<h1 align="center">🚀 Aztec Node Setup Guide</h1>
 
 Welcome! This guide will walk you through installing and running an Aztec node on your server or VPS. Follow each step carefully, and you'll be up and running in no time!
 
@@ -156,7 +157,8 @@ Go to `#operators│start-here` channel, type `/operator start`, and enter your 
 
 ---
 
-<h2 align="center">❓ FAQ & Troubleshooting</h2>
+<h1 align="center">❓ FAQ & Troubleshooting</h1>
+
 
 ### 1. No Blob Sources Are Reachable
 
