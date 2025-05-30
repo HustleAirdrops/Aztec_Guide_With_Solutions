@@ -51,6 +51,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ```bash
 bash -i <(curl -s https://install.aztec.network)
+```
+```bash
 echo 'export PATH="$HOME/.aztec/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
