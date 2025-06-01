@@ -201,7 +201,7 @@ Make sure all fields are valid — this will fix the "No Blob Sources" error.
 
 **Solution:**
 ```bash
-sudo rm -rf /tmp/aztec-world-state-*
+aztec-up 0.85.0-alpha-testnet.9
 ```
 _Then, Restart your node and it'll be fixed._
 
