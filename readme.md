@@ -259,7 +259,7 @@ This error usually occurs due to **RPC** or **Port** issues. Your node or RPC en
       | Targets            | Specified target tags                      |
       | Target tags        | allow-rpc                                  |
       | Source IP ranges   | 0.0.0.0/0                                  |
-      | Protocols and ports| tcp:8545-8551,30303, udp:30303             |
+      | Protocols and ports| tcp:3500,4000,8545-8551,30303, udp:30303             |
 
     - Click **Create**
 
