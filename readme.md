@@ -85,7 +85,7 @@ sudo ufw allow 8080
 - [Ankr](https://www.ankr.com/)
 - [Tenderly](https://dashboard.tenderly.co/)
 
-Or create your own RPC (video guide coming soon).
+Or create your own RPC 👉 [GUIDE LINK](https://github.com/HustleAirdrops/Private-RPC-For-Aztec/)
 
 ---
 
