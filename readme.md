@@ -308,7 +308,7 @@ This error usually occurs due to **RPC** or **Port** issues. Your node or RPC en
 2. **Get Peer ID:**
 
     ```bash
-    sudo bash -c "docker logs \$(docker ps -q --filter ancestor=aztecprotocol/aztec:alpha-testnet | head -n 1) 2>&1 | grep -i 'peerId' | grep -o '\"peerId\":\"[^\"]*\"' | cut -d'\"' -f4 | head -n 1"
+    sudo docker logs $(docker ps -q --filter ancestor=aztecprotocol/aztec:latest | head -n 1) 2>&1 | grep -i "peerId" | grep -o '"peerId":"[^"]*"' | cut -d'"' -f4 | head -n 1
     ```
 
     - This will output your **Peer ID** (starts with `16...`).  
